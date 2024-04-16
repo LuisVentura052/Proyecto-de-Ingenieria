@@ -99,3 +99,4 @@ btnexe.place(relx=0.5,rely=0.9,anchor="center")
 ventana.mainloop()
 j
 jotooooooooooooooooooooooooos
+Esta es una prueba mien
