@@ -97,3 +97,5 @@ btnexe = CTkButton(master=ventana,text="Ejecutar",corner_radius=32, fg_color='#f
 btnexe.place(relx=0.5,rely=0.9,anchor="center")
 
 ventana.mainloop()
+Jotooooooooooooooooooooooooooooooooooooooooooooooooooos
+Jotosssssssssssssssssssssssssssssssssssssssssssssssssss
